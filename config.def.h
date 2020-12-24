@@ -7,8 +7,8 @@ static const unsigned int gappx     = 5;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "Mononoki Nerd Font:size=10", "Symbola:size=8" };
-static const char dmenufont[]       = "Mononoki Nerd Font:size=10";
+static const char *fonts[]          = { "Fira Code:size=10", "Symbola:size=8" };
+static const char dmenufont[]       = "Fira Code:size=10";
 static const char col_gray1[]       = "#282a36";
 static const char col_gray2[]       = "#282a36";
 static const char col_gray3[]       = "#f8f8f2";
